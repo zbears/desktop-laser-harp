@@ -1,0 +1,5 @@
+Creator: Zachary Bears
+Contact: bears.zachary@gmail.com
+Description: This folder contains both the code and the circuit diagram for a small, portable desktop laser harp run off of
+an Ardunio. This project relies on a usb MIDI connector for sound output. Questions about the project are welcome and should be directed
+to the contact above.
